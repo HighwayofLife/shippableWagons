@@ -3,10 +3,10 @@ You can load wagon trains onto Galleons now. The caveat is that you cannot do it
 
 You can unload the wagon train from the Galleon on the colony screen by choosing "unload" on the Galleon.
 
-# Installation
+## Installation
 * Unpack / download into your Mods folder
 * In FreeCol, go to Preferences -> Mods, and load the Shippable Wagon Trains mod.
 * Start new game and enjoy being able to ship your wagon trains!
 
-# Contributors
+## Contributors
 * [David Lewis](highwayoflife@gmail.com)
