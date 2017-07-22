@@ -15,5 +15,5 @@ To obtain this mod. Click the Download link above or git clone this repo into yo
 * Start new game and enjoy being able to ship your wagon trains!
 
 ## Contributors
-* [David Lewis](highwayoflife@gmail.com)
+* [David Lewis](https://github.com/HighwayofLife)
 * Repo Origin: https://github.com/HighwayofLife/shippableWagons
